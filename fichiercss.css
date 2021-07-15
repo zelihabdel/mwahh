@@ -1,0 +1,61 @@
+h1 {color: pink ; 
+font-size: 50px; 
+font-family: sans-serif;
+ text-align: center;
+ text-shadow:3px 2px 4px black;
+ border-right-style: solid;
+ border-right-width: 8px;
+ border-right-color: grey;
+ 
+}
+
+
+.premierp {
+	color: purple;
+	font-size: 30px;
+	text-align: center ;
+	text-shadow:3px 2px 4px black;
+	border-style: ridge;
+	border-bottom-color: purple;
+	border-top-color: pink; 
+	border-width: 20px;
+	border-radius: 20px;
+	padding: 15px;
+	margin: 170px;
+	box-shadow: 20px 20px 10px pink;
+	
+}
+	
+
+#deuxiemep {color:pink;
+ font-style: italic; 
+ text-decoration: blink;
+ margin: 100px;
+ position: fixed;
+ top: 390px;
+}
+
+
+.liencouleur {color: pink;
+
+}
+
+.troisiemep {color: pink;
+ text-decoration: line-through;
+ margin: 50px;
+ top: 400x;
+ 
+ }
+body{
+	background: ;
+ }
+ 
+ 
+ img{height: 300px;
+ display:block;
+ padding: 50px;
+ margin-right: 600px;
+	 
+	 
+	 
+ }
